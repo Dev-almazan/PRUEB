@@ -1,0 +1,37 @@
+
+*Abrir explorador chrome  / usuario prueba tecnica
+
+*Abrir PHP MY ADMIN / LOCALHOST
+
+*Abrir Brackets
+
+
+
+PRUEBA TECNICA
+
+       * La prueba consiste en imprimir una tabla con datos realizando la conexion a la base de datos, imprimiendo la tabla con php  y agregar la funcionalidad a la tabla con los datatables.
+
+	 *  el fichero contiene los cdn de bootstrap 4 y datatables el cual deben de ser utilizados
+
+
+1- Abrir dentro de la carpeta PRUEBA TECNICA  el fichero index.php - trabajar sobre el fichero:
+
+ 2- El fichero contendra la siguiente información:
+
+	Crear una tabla dentro del container que contenga la siguiente información:
+
+	nombre, sexo, medio , importe, fecha
+
+	La tabla debe contener los siguientes parametros: 
+
+	Traer todos los usuarios que pertenezcan al genero 'masculino' , 
+	que sean del medio 'Google', que se hayan registrado en enero 2022 y que sea un importe mayor a 50000.
+
+	La base de datos se llama 'dbprueba' y la tabla se llama 'personas'
+
+3- Agregar a la tabla funcionalidad de datatables js.
+
+
+
+	
+
